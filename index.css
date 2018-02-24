@@ -15,3 +15,9 @@ span {
     font-family: '微软雅黑 light';
     font-size: 60px;
 }
+.hello {
+    font-family: "宋体";
+    font-style: italic;
+    font-size: 28px;
+    color: teal;
+}
