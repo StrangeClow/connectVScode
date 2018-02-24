@@ -22,3 +22,8 @@ span {
     font-size: 28px;
     color: teal;
 }
+.con {
+    background-color: indianred;
+    font-style: italic;
+    font-size: 42px;
+}
