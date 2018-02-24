@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    text-align: center;
+}
+h1 {
+    font-size: 36px;
+    color: brown;
+    font-family: serif;
+}
+span {
+    color: aqua;
+    font-family: '微软雅黑 light';
+    font-size: 60px;
+}
